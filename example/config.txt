@@ -1,0 +1,2 @@
+Prefix plugins/Yule/example/
+Plugin Yule inputfile table.qza outputfile beta_diversity.qza
